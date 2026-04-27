@@ -481,7 +481,7 @@ namespace EQEmu_Patcher
         };
 
         // Base URL for Spire API - change this to your server
-        private static readonly string SpireBaseUrl = "http://mud.sunburnt.country:3000/api/v1/";
+        private static readonly string SpireBaseUrl = "http://108.181.218.166:3000/api/v1/";
 
         // GitHub manifest URL for static file patching
         private static readonly string ManifestUrl = "https://raw.githubusercontent.com/atroche/eqemupatcher/refs/heads/master/manifest.json";
