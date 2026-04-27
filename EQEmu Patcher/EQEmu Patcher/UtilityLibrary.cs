@@ -136,7 +136,7 @@ namespace EQEmu_Patcher
         #region Self-Update
 
         // GitHub repository for update checks
-        private static readonly string GitHubApiUrl = "https://api.github.com/repos/atroche/eqemupatcher/releases/latest";
+        private static readonly string GitHubApiUrl = "https://api.github.com/repos/bluemangoop/eqemupatcher/releases/latest";
 
         /// <summary>
         /// Result of checking for patcher updates
